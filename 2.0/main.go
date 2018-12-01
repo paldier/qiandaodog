@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"GO/qiandaodog/2.1/models"
+	"./models"
 )
 
 func Openfile() (cookie []string) {
